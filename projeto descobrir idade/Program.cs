@@ -10,5 +10,6 @@ var data = DateTime.Now.Year;
 int idadeAnos = data - anoPessoa;
 Console.WriteLine($"Você tem {idadeAnos} de idade em anos");
 
-int idadeSemanas = anoPessoa * 52;
+int idadeSemanas = idadeAnos * 52;
 Console.WriteLine($"Você tem {idadeSemanas} de idade em semanas");
+
