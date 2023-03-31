@@ -1,0 +1,15 @@
+C:\Users\50866670890\Desktop\backend-\projeto maçãs\bin\Debug\net7.0\projeto maçãs.exe
+C:\Users\50866670890\Desktop\backend-\projeto maçãs\bin\Debug\net7.0\projeto maçãs.deps.json
+C:\Users\50866670890\Desktop\backend-\projeto maçãs\bin\Debug\net7.0\projeto maçãs.runtimeconfig.json
+C:\Users\50866670890\Desktop\backend-\projeto maçãs\bin\Debug\net7.0\projeto maçãs.dll
+C:\Users\50866670890\Desktop\backend-\projeto maçãs\bin\Debug\net7.0\projeto maçãs.pdb
+C:\Users\50866670890\Desktop\backend-\projeto maçãs\obj\Debug\net7.0\projeto maçãs.csproj.AssemblyReference.cache
+C:\Users\50866670890\Desktop\backend-\projeto maçãs\obj\Debug\net7.0\projeto maçãs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50866670890\Desktop\backend-\projeto maçãs\obj\Debug\net7.0\projeto maçãs.AssemblyInfoInputs.cache
+C:\Users\50866670890\Desktop\backend-\projeto maçãs\obj\Debug\net7.0\projeto maçãs.AssemblyInfo.cs
+C:\Users\50866670890\Desktop\backend-\projeto maçãs\obj\Debug\net7.0\projeto maçãs.csproj.CoreCompileInputs.cache
+C:\Users\50866670890\Desktop\backend-\projeto maçãs\obj\Debug\net7.0\projeto maçãs.dll
+C:\Users\50866670890\Desktop\backend-\projeto maçãs\obj\Debug\net7.0\refint\projeto maçãs.dll
+C:\Users\50866670890\Desktop\backend-\projeto maçãs\obj\Debug\net7.0\projeto maçãs.pdb
+C:\Users\50866670890\Desktop\backend-\projeto maçãs\obj\Debug\net7.0\projeto maçãs.genruntimeconfig.cache
+C:\Users\50866670890\Desktop\backend-\projeto maçãs\obj\Debug\net7.0\ref\projeto maçãs.dll
