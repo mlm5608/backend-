@@ -1,0 +1,15 @@
+C:\Users\Vanessa Elizabete\Desktop\SENAI\backend-\projetos lista 2\projeto propriedades circulos\bin\Debug\net6.0\projeto propriedades circulos.exe
+C:\Users\Vanessa Elizabete\Desktop\SENAI\backend-\projetos lista 2\projeto propriedades circulos\bin\Debug\net6.0\projeto propriedades circulos.deps.json
+C:\Users\Vanessa Elizabete\Desktop\SENAI\backend-\projetos lista 2\projeto propriedades circulos\bin\Debug\net6.0\projeto propriedades circulos.runtimeconfig.json
+C:\Users\Vanessa Elizabete\Desktop\SENAI\backend-\projetos lista 2\projeto propriedades circulos\bin\Debug\net6.0\projeto propriedades circulos.dll
+C:\Users\Vanessa Elizabete\Desktop\SENAI\backend-\projetos lista 2\projeto propriedades circulos\bin\Debug\net6.0\projeto propriedades circulos.pdb
+C:\Users\Vanessa Elizabete\Desktop\SENAI\backend-\projetos lista 2\projeto propriedades circulos\obj\Debug\net6.0\projeto propriedades circulos.csproj.AssemblyReference.cache
+C:\Users\Vanessa Elizabete\Desktop\SENAI\backend-\projetos lista 2\projeto propriedades circulos\obj\Debug\net6.0\projeto propriedades circulos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vanessa Elizabete\Desktop\SENAI\backend-\projetos lista 2\projeto propriedades circulos\obj\Debug\net6.0\projeto propriedades circulos.AssemblyInfoInputs.cache
+C:\Users\Vanessa Elizabete\Desktop\SENAI\backend-\projetos lista 2\projeto propriedades circulos\obj\Debug\net6.0\projeto propriedades circulos.AssemblyInfo.cs
+C:\Users\Vanessa Elizabete\Desktop\SENAI\backend-\projetos lista 2\projeto propriedades circulos\obj\Debug\net6.0\projeto propriedades circulos.csproj.CoreCompileInputs.cache
+C:\Users\Vanessa Elizabete\Desktop\SENAI\backend-\projetos lista 2\projeto propriedades circulos\obj\Debug\net6.0\projeto propriedades circulos.dll
+C:\Users\Vanessa Elizabete\Desktop\SENAI\backend-\projetos lista 2\projeto propriedades circulos\obj\Debug\net6.0\refint\projeto propriedades circulos.dll
+C:\Users\Vanessa Elizabete\Desktop\SENAI\backend-\projetos lista 2\projeto propriedades circulos\obj\Debug\net6.0\projeto propriedades circulos.pdb
+C:\Users\Vanessa Elizabete\Desktop\SENAI\backend-\projetos lista 2\projeto propriedades circulos\obj\Debug\net6.0\projeto propriedades circulos.genruntimeconfig.cache
+C:\Users\Vanessa Elizabete\Desktop\SENAI\backend-\projetos lista 2\projeto propriedades circulos\obj\Debug\net6.0\ref\projeto propriedades circulos.dll
