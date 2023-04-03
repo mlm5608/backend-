@@ -1,0 +1,15 @@
+C:\Users\50866670890\Desktop\backend-\exercicios\projeto refrigerante\bin\Debug\net7.0\projeto refrigerante.exe
+C:\Users\50866670890\Desktop\backend-\exercicios\projeto refrigerante\bin\Debug\net7.0\projeto refrigerante.deps.json
+C:\Users\50866670890\Desktop\backend-\exercicios\projeto refrigerante\bin\Debug\net7.0\projeto refrigerante.runtimeconfig.json
+C:\Users\50866670890\Desktop\backend-\exercicios\projeto refrigerante\bin\Debug\net7.0\projeto refrigerante.dll
+C:\Users\50866670890\Desktop\backend-\exercicios\projeto refrigerante\bin\Debug\net7.0\projeto refrigerante.pdb
+C:\Users\50866670890\Desktop\backend-\exercicios\projeto refrigerante\obj\Debug\net7.0\projeto refrigerante.csproj.AssemblyReference.cache
+C:\Users\50866670890\Desktop\backend-\exercicios\projeto refrigerante\obj\Debug\net7.0\projeto refrigerante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50866670890\Desktop\backend-\exercicios\projeto refrigerante\obj\Debug\net7.0\projeto refrigerante.AssemblyInfoInputs.cache
+C:\Users\50866670890\Desktop\backend-\exercicios\projeto refrigerante\obj\Debug\net7.0\projeto refrigerante.AssemblyInfo.cs
+C:\Users\50866670890\Desktop\backend-\exercicios\projeto refrigerante\obj\Debug\net7.0\projeto refrigerante.csproj.CoreCompileInputs.cache
+C:\Users\50866670890\Desktop\backend-\exercicios\projeto refrigerante\obj\Debug\net7.0\projeto refrigerante.dll
+C:\Users\50866670890\Desktop\backend-\exercicios\projeto refrigerante\obj\Debug\net7.0\refint\projeto refrigerante.dll
+C:\Users\50866670890\Desktop\backend-\exercicios\projeto refrigerante\obj\Debug\net7.0\projeto refrigerante.pdb
+C:\Users\50866670890\Desktop\backend-\exercicios\projeto refrigerante\obj\Debug\net7.0\projeto refrigerante.genruntimeconfig.cache
+C:\Users\50866670890\Desktop\backend-\exercicios\projeto refrigerante\obj\Debug\net7.0\ref\projeto refrigerante.dll
