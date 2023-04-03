@@ -1,0 +1,15 @@
+C:\Users\50866670890\Desktop\backend-\projetos lista 2\projeto letras\bin\Debug\net7.0\projeto letras.exe
+C:\Users\50866670890\Desktop\backend-\projetos lista 2\projeto letras\bin\Debug\net7.0\projeto letras.deps.json
+C:\Users\50866670890\Desktop\backend-\projetos lista 2\projeto letras\bin\Debug\net7.0\projeto letras.runtimeconfig.json
+C:\Users\50866670890\Desktop\backend-\projetos lista 2\projeto letras\bin\Debug\net7.0\projeto letras.dll
+C:\Users\50866670890\Desktop\backend-\projetos lista 2\projeto letras\bin\Debug\net7.0\projeto letras.pdb
+C:\Users\50866670890\Desktop\backend-\projetos lista 2\projeto letras\obj\Debug\net7.0\projeto letras.csproj.AssemblyReference.cache
+C:\Users\50866670890\Desktop\backend-\projetos lista 2\projeto letras\obj\Debug\net7.0\projeto letras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50866670890\Desktop\backend-\projetos lista 2\projeto letras\obj\Debug\net7.0\projeto letras.AssemblyInfoInputs.cache
+C:\Users\50866670890\Desktop\backend-\projetos lista 2\projeto letras\obj\Debug\net7.0\projeto letras.AssemblyInfo.cs
+C:\Users\50866670890\Desktop\backend-\projetos lista 2\projeto letras\obj\Debug\net7.0\projeto letras.csproj.CoreCompileInputs.cache
+C:\Users\50866670890\Desktop\backend-\projetos lista 2\projeto letras\obj\Debug\net7.0\projeto letras.dll
+C:\Users\50866670890\Desktop\backend-\projetos lista 2\projeto letras\obj\Debug\net7.0\refint\projeto letras.dll
+C:\Users\50866670890\Desktop\backend-\projetos lista 2\projeto letras\obj\Debug\net7.0\projeto letras.pdb
+C:\Users\50866670890\Desktop\backend-\projetos lista 2\projeto letras\obj\Debug\net7.0\projeto letras.genruntimeconfig.cache
+C:\Users\50866670890\Desktop\backend-\projetos lista 2\projeto letras\obj\Debug\net7.0\ref\projeto letras.dll

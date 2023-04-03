@@ -13,3 +13,18 @@ C:\Users\Vanessa Elizabete\Desktop\SENAI\backend-\projetos lista 2\projeto inden
 C:\Users\Vanessa Elizabete\Desktop\SENAI\backend-\projetos lista 2\projeto indentificador numeral\obj\Debug\net6.0\projeto indentificador numeral.pdb
 C:\Users\Vanessa Elizabete\Desktop\SENAI\backend-\projetos lista 2\projeto indentificador numeral\obj\Debug\net6.0\projeto indentificador numeral.genruntimeconfig.cache
 C:\Users\Vanessa Elizabete\Desktop\SENAI\backend-\projetos lista 2\projeto indentificador numeral\obj\Debug\net6.0\ref\projeto indentificador numeral.dll
+C:\Users\50866670890\Desktop\backend-\projetos lista 2\projeto indentificador numeral\bin\Debug\net6.0\projeto indentificador numeral.exe
+C:\Users\50866670890\Desktop\backend-\projetos lista 2\projeto indentificador numeral\bin\Debug\net6.0\projeto indentificador numeral.deps.json
+C:\Users\50866670890\Desktop\backend-\projetos lista 2\projeto indentificador numeral\bin\Debug\net6.0\projeto indentificador numeral.runtimeconfig.json
+C:\Users\50866670890\Desktop\backend-\projetos lista 2\projeto indentificador numeral\bin\Debug\net6.0\projeto indentificador numeral.dll
+C:\Users\50866670890\Desktop\backend-\projetos lista 2\projeto indentificador numeral\bin\Debug\net6.0\projeto indentificador numeral.pdb
+C:\Users\50866670890\Desktop\backend-\projetos lista 2\projeto indentificador numeral\obj\Debug\net6.0\projeto indentificador numeral.csproj.AssemblyReference.cache
+C:\Users\50866670890\Desktop\backend-\projetos lista 2\projeto indentificador numeral\obj\Debug\net6.0\projeto indentificador numeral.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50866670890\Desktop\backend-\projetos lista 2\projeto indentificador numeral\obj\Debug\net6.0\projeto indentificador numeral.AssemblyInfoInputs.cache
+C:\Users\50866670890\Desktop\backend-\projetos lista 2\projeto indentificador numeral\obj\Debug\net6.0\projeto indentificador numeral.AssemblyInfo.cs
+C:\Users\50866670890\Desktop\backend-\projetos lista 2\projeto indentificador numeral\obj\Debug\net6.0\projeto indentificador numeral.csproj.CoreCompileInputs.cache
+C:\Users\50866670890\Desktop\backend-\projetos lista 2\projeto indentificador numeral\obj\Debug\net6.0\projeto indentificador numeral.dll
+C:\Users\50866670890\Desktop\backend-\projetos lista 2\projeto indentificador numeral\obj\Debug\net6.0\refint\projeto indentificador numeral.dll
+C:\Users\50866670890\Desktop\backend-\projetos lista 2\projeto indentificador numeral\obj\Debug\net6.0\projeto indentificador numeral.pdb
+C:\Users\50866670890\Desktop\backend-\projetos lista 2\projeto indentificador numeral\obj\Debug\net6.0\projeto indentificador numeral.genruntimeconfig.cache
+C:\Users\50866670890\Desktop\backend-\projetos lista 2\projeto indentificador numeral\obj\Debug\net6.0\ref\projeto indentificador numeral.dll

@@ -1,0 +1,15 @@
+C:\Users\50866670890\Desktop\backend-\projetos lista 2\projeto crime\bin\Debug\net7.0\projeto crime.exe
+C:\Users\50866670890\Desktop\backend-\projetos lista 2\projeto crime\bin\Debug\net7.0\projeto crime.deps.json
+C:\Users\50866670890\Desktop\backend-\projetos lista 2\projeto crime\bin\Debug\net7.0\projeto crime.runtimeconfig.json
+C:\Users\50866670890\Desktop\backend-\projetos lista 2\projeto crime\bin\Debug\net7.0\projeto crime.dll
+C:\Users\50866670890\Desktop\backend-\projetos lista 2\projeto crime\bin\Debug\net7.0\projeto crime.pdb
+C:\Users\50866670890\Desktop\backend-\projetos lista 2\projeto crime\obj\Debug\net7.0\projeto crime.csproj.AssemblyReference.cache
+C:\Users\50866670890\Desktop\backend-\projetos lista 2\projeto crime\obj\Debug\net7.0\projeto crime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50866670890\Desktop\backend-\projetos lista 2\projeto crime\obj\Debug\net7.0\projeto crime.AssemblyInfoInputs.cache
+C:\Users\50866670890\Desktop\backend-\projetos lista 2\projeto crime\obj\Debug\net7.0\projeto crime.AssemblyInfo.cs
+C:\Users\50866670890\Desktop\backend-\projetos lista 2\projeto crime\obj\Debug\net7.0\projeto crime.csproj.CoreCompileInputs.cache
+C:\Users\50866670890\Desktop\backend-\projetos lista 2\projeto crime\obj\Debug\net7.0\projeto crime.dll
+C:\Users\50866670890\Desktop\backend-\projetos lista 2\projeto crime\obj\Debug\net7.0\refint\projeto crime.dll
+C:\Users\50866670890\Desktop\backend-\projetos lista 2\projeto crime\obj\Debug\net7.0\projeto crime.pdb
+C:\Users\50866670890\Desktop\backend-\projetos lista 2\projeto crime\obj\Debug\net7.0\projeto crime.genruntimeconfig.cache
+C:\Users\50866670890\Desktop\backend-\projetos lista 2\projeto crime\obj\Debug\net7.0\ref\projeto crime.dll
