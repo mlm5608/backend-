@@ -20,7 +20,7 @@ while (nome == "")
 Console.WriteLine($"digite sua idade:");
 int idade = int.Parse(Console.ReadLine());
 
-while ((idade < 0) && (idade > 100))
+while ((idade < 0) || (idade > 100))
 {
     Console.WriteLine($"digite uma idade válida!");
     idade = int.Parse(Console.ReadLine());
@@ -32,7 +32,7 @@ float salario = float.Parse(Console.ReadLine());
 
 while (salario <= 0)
 {
-    Console.WriteLine($"digite um salário maior que zero!migue");
+    Console.WriteLine($"digite um salário maior que zero!");
     salario = float.Parse(Console.ReadLine());
 }
 // =================================================================
