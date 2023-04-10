@@ -14,7 +14,7 @@ int nHomensSim = 0;
 int nHomensNao = 0;
 
 
-for (int i = 1; i <= 5; i++)
+for (int i = 1; i <= 10; i++)
 {
     Console.WriteLine($"pessoa {i}");
     
@@ -23,14 +23,14 @@ for (int i = 1; i <= 5; i++)
     F = feminino
     M = Masculino
     ");
-    char sexo = char.Parse(Console.ReadLine().ToUpper());
+    char sexo = char.Parse(Console.ReadLine()!.ToUpper());
 
     Console.WriteLine(@$"
     gostou do produto?
     S = sim 
     N = não
     ");
-    char resposta = char.Parse(Console.ReadLine().ToUpper());
+    char resposta = char.Parse(Console.ReadLine()!.ToUpper());
     
     if ((sexo == 'F') && (resposta == 'S'))
     {
@@ -57,11 +57,10 @@ for (int i = 1; i <= 5; i++)
 int respostasSim = nHomensSim + nMulheresSim;
 int respostasNao = nHomensNao + nMulheresNao;
 
-float mHomensNao = (nHomensNao / nHomens) * 100;
+float mHomensNao = (nHomensNao * 100) / nHomens;
 
 
 Console.WriteLine($"O número de respostas sim é: {respostasSim}");
 Console.WriteLine($"o número de respostas não é: {respostasNao}");
 Console.WriteLine($"o número de mulheres que responderam sim é: {nMulheresSim}");
 Console.WriteLine($"a media de homens que responderam não é: {mHomensNao}%");
-
