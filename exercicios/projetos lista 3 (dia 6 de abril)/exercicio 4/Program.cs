@@ -52,6 +52,10 @@ for (int i = 1; i <= 10; i++)
         nHomens++;
         nHomensNao++;
     }
+    else
+    {
+        Console.WriteLine($"resposta invalida");
+    }
 }
 
 int respostasSim = nHomensSim + nMulheresSim;
