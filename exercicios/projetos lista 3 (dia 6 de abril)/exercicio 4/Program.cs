@@ -61,8 +61,7 @@ for (int i = 1; i <= 10; i++)
 int respostasSim = nHomensSim + nMulheresSim;
 int respostasNao = nHomensNao + nMulheresNao;
 
-float mHomensNao = (nHomensNao * 100) / nHomens;
-
+float mHomensNao = ( (float)nHomensNao / (float)nHomens ) * 100;
 
 Console.WriteLine($"O número de respostas sim é: {respostasSim}");
 Console.WriteLine($"o número de respostas não é: {respostasNao}");
