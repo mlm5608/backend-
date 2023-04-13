@@ -33,19 +33,19 @@ while (teste == false)
     else if ((renda > 1500) && (renda <= 3500))
     {
         float imposto = Impost(renda, 20);
-        Console.WriteLine($"O valor a pagar de imposto é:{imposto}");
+        Console.WriteLine($"O valor a pagar de imposto é:{imposto} reais");
     }
 
     else if ((renda > 3500) && (renda <= 6000))
     {
         float imposto = Impost(renda, 25);
-        Console.WriteLine($"O valor a pagar de imposto é:{imposto}");
+        Console.WriteLine($"O valor a pagar de imposto é:{imposto} reais");
     }
 
     else if (renda > 6000)
     {
         float imposto = Impost(renda, 35);
-        Console.WriteLine($"O valor a pagar de imposto é:{imposto}");
+        Console.WriteLine($"O valor a pagar de imposto é:{imposto} reais");
     }
     else
     {
