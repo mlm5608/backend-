@@ -5,7 +5,7 @@
 Console.WriteLine($"digite o 1º número");
 float numero1 = float.Parse(Console.ReadLine()!);
 
-Console.WriteLine($"digite o 1º número");
+Console.WriteLine($"digite o 2º número");
 float numero2 = float.Parse(Console.ReadLine()!);
 
 Console.WriteLine(@$"escolha a operação
