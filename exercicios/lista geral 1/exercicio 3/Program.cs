@@ -4,6 +4,7 @@
 // - Se quantidade > 10 o desconto será de 5%
 // Dica: utilize if / else if / else
 
+
 Console.WriteLine($"digite o nome do produto");
 string produto = Console.ReadLine()!;
 
@@ -13,10 +14,13 @@ float quantidade = float.Parse(Console.ReadLine()!);
 Console.WriteLine($"qual o preço unitário do {produto} ?");
 float preco = float.Parse(Console.ReadLine()!);
 
- static float Total(float quantidade, float preco, float desconto)
-    {
-        return (quantidade * preco) - ((quantidade * preco) * desconto);
-    }
+
+
+// método
+static float Total(float quantidade, float preco, float desconto)
+{
+    return (quantidade * preco) - ((quantidade * preco) * desconto);
+}
 
 
 if (quantidade <= 5)

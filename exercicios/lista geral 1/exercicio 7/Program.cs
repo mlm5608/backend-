@@ -11,6 +11,6 @@ for (int i = 0; i < 15; i++)
 Array.Reverse(numeros);
 
 for (int i = 0; i < 15; i++){
-    Console.WriteLine($"{numeros[i]}");
+    Console.WriteLine($" { numeros[i] } ");
     
 }

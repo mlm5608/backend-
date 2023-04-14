@@ -11,12 +11,12 @@
 // sabendo-se que o preço do litro da gasolina é R$ 5,30 e o preço do litro do álcool é R$ 4,90.
 // Dica: utilize switch case e funções/métodos para otimizar o algorítimo.
 
-
-
+// método
 static float Total(float preçoTipo, float desconto, float litros){
     return (preçoTipo * litros) - (desconto * litros);
 }
 
+// variaveis
 Console.WriteLine(@$"qual tipo de combustível foi vendido?
 a - álcool
 g - gasolina
@@ -26,17 +26,19 @@ char tipo = char.Parse(Console.ReadLine()!.ToLower());
 Console.WriteLine($"quantos litros foram colocados?");
 float litros = int.Parse(Console.ReadLine()!);
 
+
+// condicionais
 if (tipo == 'a')
-{   
+{
     if (litros <= 20)
     {
-       float preço = Total(4.9f, litros, 0.03f);
+       float preço = Total(4.90f, litros, 0.03f);
        Console.WriteLine($"o preço a pagar é: {preço} reais");
     }
 
     else if (litros > 20)
     {
-       float preço = Total(4.9f, litros, 0.05f);
+       float preço = Total(4.90f, litros, 0.05f);
        Console.WriteLine($"o preço a pagar é: {preço} reais");
     }
 }
@@ -45,13 +47,13 @@ else if (tipo == 'g')
 {   
     if (litros <= 20)
     {
-       float preço = Total(4.9f, litros, 0.04f);
+       float preço = Total(5.30f, litros, 0.04f);
        Console.WriteLine($"o preço a pagar é: {preço} reais");
     }
 
     else if (litros > 20)
     {
-       float preço = Total(4.9f, litros, 0.06f);
+       float preço = Total(5.30f, litros, 0.06f);
        Console.WriteLine($"o preço a pagar é: {preço} reais");
     }
 }
