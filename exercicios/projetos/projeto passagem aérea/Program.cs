@@ -9,16 +9,16 @@
 // Observação :  Criar ao menos uma função (Efetuar Login).
 // Ao cadastrar uma passagem ao final o sistema deverá perguntar se gostaria de cadastrar uma nova passagem caso contrário voltar ao menu anterior(S/N).
 
-string[] nomePassageiro = new string[] {};
-string[] origemVoo = new string[] {};
-string[] destinoVoo = new string[] {};
-string[] dataVoo = new string[] {};
+string[] nomePassageiro = new string[] { "miguel", "arthur", "felipe", "", ""};
+string[] origemVoo = new string[] { "Brasil", "Camboja", "Nova Guiné", "", ""};
+string[] destinoVoo = new string[] { "Argentina", "Vaticano", "Austrália", "", ""};
+string[] dataVoo = new string[] { "28/04/2023", "09/05/2024", "20/12/2025", "", ""};
 
 bool respostaCadastroPassagem = false;
-bool repeticaoMenu = false;
+bool repeticaoMenu = true;
 bool repeticaoTotal = false;
 
-int i = 1;
+int j = 3;
 
 do
 {
@@ -27,8 +27,6 @@ do
 
     Console.WriteLine($"digite a senha:");
     int senhaLogin = int.Parse(Console.ReadLine()!);
-
-
 
     if ((nomeLogin == "MIGUEL") && (senhaLogin == 280407))
     {
@@ -43,62 +41,60 @@ do
 ==========================
     ");
 
-            int opcaoMenu = int.Parse(Console.ReadLine()!);
-
+        int opcaoMenu = int.Parse(Console.ReadLine()!);
+        
             if (opcaoMenu == 1)
             {
                 do
                 {
-                    Console.WriteLine($"digite o nome do passageiro");
-                    nomePassageiro[i] = Console.ReadLine()!;
+                        Console.WriteLine($"digite o nome do passageiro");
+                        nomePassageiro[j] = Console.ReadLine()!;
 
-                    Console.WriteLine($"digite a origem do voo (ex: Brasil)");
-                    origemVoo[i] = Console.ReadLine()!;
+                        Console.WriteLine($"digite a origem do voo (ex: Brasil)");
+                        origemVoo[j] = Console.ReadLine()!;
 
-                    Console.WriteLine($"digite o destino do voo (ex: Alemanha)");
-                    destinoVoo[i] = Console.ReadLine()!;
+                        Console.WriteLine($"digite o destino do voo (ex: Alemanha)");
+                        destinoVoo[j] = Console.ReadLine()!;
 
-                    Console.WriteLine($"digite a data do voo (dd/mm/aaaa)");
-                    dataVoo[i] = Console.ReadLine()!;
+                        Console.WriteLine($"digite a data do voo (dd/mm/aaaa)");
+                        dataVoo[j] = Console.ReadLine()!;
 
-                    Console.WriteLine($"você quer cadastrar outra passagem? (s/n)");
-                    char novoCadrasto = char.Parse(Console.ReadLine()!.ToLower());
+                        Console.WriteLine($"você quer cadastrar outra passagem? (s/n)");
+                        char novoCadrasto = char.Parse(Console.ReadLine()!.ToLower());
 
-                    if (novoCadrasto == 's')
-                    {
-                        i++;
-                        respostaCadastroPassagem = true;
-                    }
-                    else if (novoCadrasto == 'n')
-                    {
-                        respostaCadastroPassagem = false;
-                    }
-                    else
-                    {
-                        Console.WriteLine($"digite uma resposta válida ");
-                        novoCadrasto = char.Parse(Console.ReadLine()!.ToLower());
-                    }
+                        if (novoCadrasto == 's')
+                        {
+                            j++;
+                            respostaCadastroPassagem = true;
+                        }
+                        else if (novoCadrasto == 'n')
+                        {
+                            respostaCadastroPassagem = false;
+                        }
+                        else
+                        {
+                            Console.WriteLine($"digite uma resposta válida ");
+                            novoCadrasto = char.Parse(Console.ReadLine()!.ToLower());
+                        }
                 } while (respostaCadastroPassagem == true);
             }
 
             else if (opcaoMenu == 2)
             {
-                for (int x = 0; x <= nomePassageiro.Length; i++)
+                for (int x = 0; x < nomePassageiro.Length; x++)
                 {
                     Console.WriteLine(@$"
-=========================================
 -    passagem {x + 1}
 -    {nomePassageiro[x]}                                  
--    {origemVoo[x]}  -- {destinoVoo[x]}                                  
--                                       
+-    {origemVoo[x]}  -- {destinoVoo[x]}                            
 -    {dataVoo[x]}                                   
-=========================================
                 ");
                 }
             }
             else if (opcaoMenu == 0)
             {
                 repeticaoMenu = false;
+                repeticaoTotal = true;
             }
         } while (repeticaoMenu == true);
     }
