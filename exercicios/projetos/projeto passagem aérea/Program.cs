@@ -86,7 +86,7 @@ do
                     Console.WriteLine(@$"
 -    passagem {x + 1}
 -    {nomePassageiro[x]}                                  
--    {origemVoo[x]}  -- {destinoVoo[x]}                            
+-    {origemVoo[x]} -- {destinoVoo[x]}                            
 -    {dataVoo[x]}                                   
                 ");
                 }

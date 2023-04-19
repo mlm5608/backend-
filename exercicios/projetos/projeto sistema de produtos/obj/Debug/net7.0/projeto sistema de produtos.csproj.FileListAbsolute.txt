@@ -1,0 +1,15 @@
+C:\Users\50866670890\Desktop\backend-\exercicios\projetos\projeto sistema de produtos\bin\Debug\net7.0\projeto sistema de produtos.exe
+C:\Users\50866670890\Desktop\backend-\exercicios\projetos\projeto sistema de produtos\bin\Debug\net7.0\projeto sistema de produtos.deps.json
+C:\Users\50866670890\Desktop\backend-\exercicios\projetos\projeto sistema de produtos\bin\Debug\net7.0\projeto sistema de produtos.runtimeconfig.json
+C:\Users\50866670890\Desktop\backend-\exercicios\projetos\projeto sistema de produtos\bin\Debug\net7.0\projeto sistema de produtos.dll
+C:\Users\50866670890\Desktop\backend-\exercicios\projetos\projeto sistema de produtos\bin\Debug\net7.0\projeto sistema de produtos.pdb
+C:\Users\50866670890\Desktop\backend-\exercicios\projetos\projeto sistema de produtos\obj\Debug\net7.0\projeto sistema de produtos.csproj.AssemblyReference.cache
+C:\Users\50866670890\Desktop\backend-\exercicios\projetos\projeto sistema de produtos\obj\Debug\net7.0\projeto sistema de produtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50866670890\Desktop\backend-\exercicios\projetos\projeto sistema de produtos\obj\Debug\net7.0\projeto sistema de produtos.AssemblyInfoInputs.cache
+C:\Users\50866670890\Desktop\backend-\exercicios\projetos\projeto sistema de produtos\obj\Debug\net7.0\projeto sistema de produtos.AssemblyInfo.cs
+C:\Users\50866670890\Desktop\backend-\exercicios\projetos\projeto sistema de produtos\obj\Debug\net7.0\projeto sistema de produtos.csproj.CoreCompileInputs.cache
+C:\Users\50866670890\Desktop\backend-\exercicios\projetos\projeto sistema de produtos\obj\Debug\net7.0\projeto sistema de produtos.dll
+C:\Users\50866670890\Desktop\backend-\exercicios\projetos\projeto sistema de produtos\obj\Debug\net7.0\refint\projeto sistema de produtos.dll
+C:\Users\50866670890\Desktop\backend-\exercicios\projetos\projeto sistema de produtos\obj\Debug\net7.0\projeto sistema de produtos.pdb
+C:\Users\50866670890\Desktop\backend-\exercicios\projetos\projeto sistema de produtos\obj\Debug\net7.0\projeto sistema de produtos.genruntimeconfig.cache
+C:\Users\50866670890\Desktop\backend-\exercicios\projetos\projeto sistema de produtos\obj\Debug\net7.0\ref\projeto sistema de produtos.dll
