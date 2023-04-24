@@ -1,0 +1,15 @@
+C:\Users\50866670890\Desktop\backend-\Programação Orientada à objetos\exercícios\preojeto aluno\bin\Debug\net7.0\preojeto aluno.exe
+C:\Users\50866670890\Desktop\backend-\Programação Orientada à objetos\exercícios\preojeto aluno\bin\Debug\net7.0\preojeto aluno.deps.json
+C:\Users\50866670890\Desktop\backend-\Programação Orientada à objetos\exercícios\preojeto aluno\bin\Debug\net7.0\preojeto aluno.runtimeconfig.json
+C:\Users\50866670890\Desktop\backend-\Programação Orientada à objetos\exercícios\preojeto aluno\bin\Debug\net7.0\preojeto aluno.dll
+C:\Users\50866670890\Desktop\backend-\Programação Orientada à objetos\exercícios\preojeto aluno\bin\Debug\net7.0\preojeto aluno.pdb
+C:\Users\50866670890\Desktop\backend-\Programação Orientada à objetos\exercícios\preojeto aluno\obj\Debug\net7.0\preojeto aluno.csproj.AssemblyReference.cache
+C:\Users\50866670890\Desktop\backend-\Programação Orientada à objetos\exercícios\preojeto aluno\obj\Debug\net7.0\preojeto aluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50866670890\Desktop\backend-\Programação Orientada à objetos\exercícios\preojeto aluno\obj\Debug\net7.0\preojeto aluno.AssemblyInfoInputs.cache
+C:\Users\50866670890\Desktop\backend-\Programação Orientada à objetos\exercícios\preojeto aluno\obj\Debug\net7.0\preojeto aluno.AssemblyInfo.cs
+C:\Users\50866670890\Desktop\backend-\Programação Orientada à objetos\exercícios\preojeto aluno\obj\Debug\net7.0\preojeto aluno.csproj.CoreCompileInputs.cache
+C:\Users\50866670890\Desktop\backend-\Programação Orientada à objetos\exercícios\preojeto aluno\obj\Debug\net7.0\preojeto aluno.dll
+C:\Users\50866670890\Desktop\backend-\Programação Orientada à objetos\exercícios\preojeto aluno\obj\Debug\net7.0\refint\preojeto aluno.dll
+C:\Users\50866670890\Desktop\backend-\Programação Orientada à objetos\exercícios\preojeto aluno\obj\Debug\net7.0\preojeto aluno.pdb
+C:\Users\50866670890\Desktop\backend-\Programação Orientada à objetos\exercícios\preojeto aluno\obj\Debug\net7.0\preojeto aluno.genruntimeconfig.cache
+C:\Users\50866670890\Desktop\backend-\Programação Orientada à objetos\exercícios\preojeto aluno\obj\Debug\net7.0\ref\preojeto aluno.dll

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\50866670890\\Desktop\\backend-\\Programação Orientada à objetos\\exemplos\\exemplos.csproj",
+      "projectUniqueName": "C:\\Users\\50866670890\\Desktop\\backend-\\Programação Orientada à objetos\\exemplos\\exemplo_1\\exemplos.csproj",
       "projectName": "exemplos",
-      "projectPath": "C:\\Users\\50866670890\\Desktop\\backend-\\Programação Orientada à objetos\\exemplos\\exemplos.csproj",
+      "projectPath": "C:\\Users\\50866670890\\Desktop\\backend-\\Programação Orientada à objetos\\exemplos\\exemplo_1\\exemplos.csproj",
       "packagesPath": "C:\\Users\\50866670890\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\50866670890\\Desktop\\backend-\\Programação Orientada à objetos\\exemplos\\obj\\",
+      "outputPath": "C:\\Users\\50866670890\\Desktop\\backend-\\Programação Orientada à objetos\\exemplos\\exemplo_1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\50866670890\\AppData\\Roaming\\NuGet\\NuGet.Config",
