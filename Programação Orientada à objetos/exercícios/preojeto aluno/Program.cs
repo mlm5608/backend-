@@ -22,10 +22,10 @@ Console.WriteLine($"digite o curso do aluno:");
 dado.curso = Console.ReadLine()!.ToLower();
 
 Console.WriteLine($"digite a idade do aluno:");
-dado.idade = int.Parse(Console.ReadLine());
+dado.idade = Console.ReadLine()!;
 
 Console.WriteLine($"digite o rg do aluno:");
-dado.RG = int.Parse(Console.ReadLine());
+dado.RG =  Console.ReadLine()!;
 
 dado.bolsa = false;
 
@@ -35,7 +35,7 @@ dado.mediaF = float.Parse(Console.ReadLine()!);
 dado.VerMediaFinal(dado.mediaF);
 
 Console.WriteLine($"qual a mensalidade inegral?");
-dado.mensalidade = float.Parse(Console.ReadLine());
+dado.mensalidade = float.Parse(Console.ReadLine()!);
 
 dado.VerMensalidade(dado.mensalidade, dado.valorBolsa);
 

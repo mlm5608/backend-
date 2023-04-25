@@ -11,8 +11,8 @@ namespace preojeto_aluno
 
         public string nome;
         public string curso;
-        public int idade;
-        public int RG;
+        public string idade;
+        public string RG;
         public bool bolsa;
         public float valorBolsa;
         public float mediaF;
