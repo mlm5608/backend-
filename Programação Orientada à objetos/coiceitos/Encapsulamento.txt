@@ -1,0 +1,3 @@
+-Usado para proteger ou privar os dados armazenados alí
+
+-por exemplo: saldo de bancos, dados pessoais, informações confidenciais,etc.

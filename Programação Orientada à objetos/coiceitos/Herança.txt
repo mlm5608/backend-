@@ -1,0 +1,3 @@
+-é usado para receber informações de uma classe (pai) para outra (filho);
+
+-por exemplo cria uma classe conta: e enviar as iformações para classes conta corrente e conta poupança;

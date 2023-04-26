@@ -1,0 +1,14 @@
+-O principal ponto é que deve-se receber e armazenar somente oque te interessa de algo ou alguém;
+
+-Classe abstrata / Superclasse, guarda informações/ações que vão ser usadas em todas as classes;
+
+exemplo:
+superclass = veiculo;
+
+classes:
+onibûs\
+carro | *superclass: automoveis*
+moto  /
+aeronave
+bicicleta
+

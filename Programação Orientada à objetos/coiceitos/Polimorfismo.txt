@@ -1,0 +1,9 @@
+-
+poli: muitas
+morfismo: formas
+
+-Pode se criar inumeros métodos com o mesmo nome, com a mesma finalidade;
+
+sobrecarga de métodos: criar metodos iguais com numero de cargas(dados a receber) diferentes;
+
+sobrescrita:apenas uma chamada do método para enviar de uma superclasse para uma subclasse, saindo abstrato e chegando override;
