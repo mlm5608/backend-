@@ -1,0 +1,9 @@
+Ligações:
+
+Herança:Quando uma classe concreta (Filha) herda métodos e atributos de uma classe abstrata (Pai/Superclasse);
+
+Composição:Quando determinada classe depende da existência de outra para existir;
+
+Associação:Quando uma classe nos dá a opção de criarmos objetos que podem estar associados a um grupo ou simplesmente existir sozinha;
+
+Agregação:Quando determinada classe pode existir por conta própria, mas ainda assim pode ligar-se à outra;

@@ -1,0 +1,7 @@
+Modificadores
+
+privado: uma propriedade ou metodo pode ser acessado somente dentro da classe (-)
+
+Protegido:propriedade ou método que só pode ser acessado a partir de uma classe que herda de outra classe (#)
+
+publico: uma propriedade ou metodo pode ser acessado de qualquer parte do sistema (+)

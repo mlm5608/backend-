@@ -1,0 +1,8 @@
+|=============================|
+|     Nome da classe          |
+|=============================|
+| Nome do atributo:tipo       |
+|=============================|
+|Nome do metodo (tipo nomeDoPa|
+|rametro):tipo do retorno     |
+|=============================|
