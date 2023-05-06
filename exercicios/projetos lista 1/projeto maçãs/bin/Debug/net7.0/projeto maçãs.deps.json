@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "projeto maçãs/1.0.0": {
+        "runtime": {
+          "projeto maçãs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "projeto maçãs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

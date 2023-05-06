@@ -1,0 +1,15 @@
+C:\Users\50866670890\Desktop\backend-\projeto Salário\bin\Debug\net7.0\projeto Salário.exe
+C:\Users\50866670890\Desktop\backend-\projeto Salário\bin\Debug\net7.0\projeto Salário.deps.json
+C:\Users\50866670890\Desktop\backend-\projeto Salário\bin\Debug\net7.0\projeto Salário.runtimeconfig.json
+C:\Users\50866670890\Desktop\backend-\projeto Salário\bin\Debug\net7.0\projeto Salário.dll
+C:\Users\50866670890\Desktop\backend-\projeto Salário\bin\Debug\net7.0\projeto Salário.pdb
+C:\Users\50866670890\Desktop\backend-\projeto Salário\obj\Debug\net7.0\projeto Salário.csproj.AssemblyReference.cache
+C:\Users\50866670890\Desktop\backend-\projeto Salário\obj\Debug\net7.0\projeto Salário.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50866670890\Desktop\backend-\projeto Salário\obj\Debug\net7.0\projeto Salário.AssemblyInfoInputs.cache
+C:\Users\50866670890\Desktop\backend-\projeto Salário\obj\Debug\net7.0\projeto Salário.AssemblyInfo.cs
+C:\Users\50866670890\Desktop\backend-\projeto Salário\obj\Debug\net7.0\projeto Salário.csproj.CoreCompileInputs.cache
+C:\Users\50866670890\Desktop\backend-\projeto Salário\obj\Debug\net7.0\projeto Salário.dll
+C:\Users\50866670890\Desktop\backend-\projeto Salário\obj\Debug\net7.0\refint\projeto Salário.dll
+C:\Users\50866670890\Desktop\backend-\projeto Salário\obj\Debug\net7.0\projeto Salário.pdb
+C:\Users\50866670890\Desktop\backend-\projeto Salário\obj\Debug\net7.0\projeto Salário.genruntimeconfig.cache
+C:\Users\50866670890\Desktop\backend-\projeto Salário\obj\Debug\net7.0\ref\projeto Salário.dll

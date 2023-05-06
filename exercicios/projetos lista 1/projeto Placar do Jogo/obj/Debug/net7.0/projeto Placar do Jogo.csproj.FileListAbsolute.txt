@@ -1,0 +1,15 @@
+C:\Users\50866670890\Desktop\backend-\projeto Placar do Jogo\bin\Debug\net7.0\projeto Placar do Jogo.exe
+C:\Users\50866670890\Desktop\backend-\projeto Placar do Jogo\bin\Debug\net7.0\projeto Placar do Jogo.deps.json
+C:\Users\50866670890\Desktop\backend-\projeto Placar do Jogo\bin\Debug\net7.0\projeto Placar do Jogo.runtimeconfig.json
+C:\Users\50866670890\Desktop\backend-\projeto Placar do Jogo\bin\Debug\net7.0\projeto Placar do Jogo.dll
+C:\Users\50866670890\Desktop\backend-\projeto Placar do Jogo\bin\Debug\net7.0\projeto Placar do Jogo.pdb
+C:\Users\50866670890\Desktop\backend-\projeto Placar do Jogo\obj\Debug\net7.0\projeto Placar do Jogo.csproj.AssemblyReference.cache
+C:\Users\50866670890\Desktop\backend-\projeto Placar do Jogo\obj\Debug\net7.0\projeto Placar do Jogo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50866670890\Desktop\backend-\projeto Placar do Jogo\obj\Debug\net7.0\projeto Placar do Jogo.AssemblyInfoInputs.cache
+C:\Users\50866670890\Desktop\backend-\projeto Placar do Jogo\obj\Debug\net7.0\projeto Placar do Jogo.AssemblyInfo.cs
+C:\Users\50866670890\Desktop\backend-\projeto Placar do Jogo\obj\Debug\net7.0\projeto Placar do Jogo.csproj.CoreCompileInputs.cache
+C:\Users\50866670890\Desktop\backend-\projeto Placar do Jogo\obj\Debug\net7.0\projeto Placar do Jogo.dll
+C:\Users\50866670890\Desktop\backend-\projeto Placar do Jogo\obj\Debug\net7.0\refint\projeto Placar do Jogo.dll
+C:\Users\50866670890\Desktop\backend-\projeto Placar do Jogo\obj\Debug\net7.0\projeto Placar do Jogo.pdb
+C:\Users\50866670890\Desktop\backend-\projeto Placar do Jogo\obj\Debug\net7.0\projeto Placar do Jogo.genruntimeconfig.cache
+C:\Users\50866670890\Desktop\backend-\projeto Placar do Jogo\obj\Debug\net7.0\ref\projeto Placar do Jogo.dll

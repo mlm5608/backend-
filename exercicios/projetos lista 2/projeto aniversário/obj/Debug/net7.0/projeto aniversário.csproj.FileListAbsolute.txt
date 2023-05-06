@@ -1,0 +1,15 @@
+C:\Users\50866670890\Desktop\backend-\projetos lista 2\projeto aniversário\bin\Debug\net7.0\projeto aniversário.exe
+C:\Users\50866670890\Desktop\backend-\projetos lista 2\projeto aniversário\bin\Debug\net7.0\projeto aniversário.deps.json
+C:\Users\50866670890\Desktop\backend-\projetos lista 2\projeto aniversário\bin\Debug\net7.0\projeto aniversário.runtimeconfig.json
+C:\Users\50866670890\Desktop\backend-\projetos lista 2\projeto aniversário\bin\Debug\net7.0\projeto aniversário.dll
+C:\Users\50866670890\Desktop\backend-\projetos lista 2\projeto aniversário\bin\Debug\net7.0\projeto aniversário.pdb
+C:\Users\50866670890\Desktop\backend-\projetos lista 2\projeto aniversário\obj\Debug\net7.0\projeto aniversário.csproj.AssemblyReference.cache
+C:\Users\50866670890\Desktop\backend-\projetos lista 2\projeto aniversário\obj\Debug\net7.0\projeto aniversário.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50866670890\Desktop\backend-\projetos lista 2\projeto aniversário\obj\Debug\net7.0\projeto aniversário.AssemblyInfoInputs.cache
+C:\Users\50866670890\Desktop\backend-\projetos lista 2\projeto aniversário\obj\Debug\net7.0\projeto aniversário.AssemblyInfo.cs
+C:\Users\50866670890\Desktop\backend-\projetos lista 2\projeto aniversário\obj\Debug\net7.0\projeto aniversário.csproj.CoreCompileInputs.cache
+C:\Users\50866670890\Desktop\backend-\projetos lista 2\projeto aniversário\obj\Debug\net7.0\projeto aniversário.dll
+C:\Users\50866670890\Desktop\backend-\projetos lista 2\projeto aniversário\obj\Debug\net7.0\refint\projeto aniversário.dll
+C:\Users\50866670890\Desktop\backend-\projetos lista 2\projeto aniversário\obj\Debug\net7.0\projeto aniversário.pdb
+C:\Users\50866670890\Desktop\backend-\projetos lista 2\projeto aniversário\obj\Debug\net7.0\projeto aniversário.genruntimeconfig.cache
+C:\Users\50866670890\Desktop\backend-\projetos lista 2\projeto aniversário\obj\Debug\net7.0\ref\projeto aniversário.dll

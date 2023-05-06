@@ -1,0 +1,15 @@
+C:\Users\50866670890\Desktop\backend-\projeto descobrir idade\bin\Debug\net7.0\projeto descobrir idade.exe
+C:\Users\50866670890\Desktop\backend-\projeto descobrir idade\bin\Debug\net7.0\projeto descobrir idade.deps.json
+C:\Users\50866670890\Desktop\backend-\projeto descobrir idade\bin\Debug\net7.0\projeto descobrir idade.runtimeconfig.json
+C:\Users\50866670890\Desktop\backend-\projeto descobrir idade\bin\Debug\net7.0\projeto descobrir idade.dll
+C:\Users\50866670890\Desktop\backend-\projeto descobrir idade\bin\Debug\net7.0\projeto descobrir idade.pdb
+C:\Users\50866670890\Desktop\backend-\projeto descobrir idade\obj\Debug\net7.0\projeto descobrir idade.csproj.AssemblyReference.cache
+C:\Users\50866670890\Desktop\backend-\projeto descobrir idade\obj\Debug\net7.0\projeto descobrir idade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50866670890\Desktop\backend-\projeto descobrir idade\obj\Debug\net7.0\projeto descobrir idade.AssemblyInfoInputs.cache
+C:\Users\50866670890\Desktop\backend-\projeto descobrir idade\obj\Debug\net7.0\projeto descobrir idade.AssemblyInfo.cs
+C:\Users\50866670890\Desktop\backend-\projeto descobrir idade\obj\Debug\net7.0\projeto descobrir idade.csproj.CoreCompileInputs.cache
+C:\Users\50866670890\Desktop\backend-\projeto descobrir idade\obj\Debug\net7.0\projeto descobrir idade.dll
+C:\Users\50866670890\Desktop\backend-\projeto descobrir idade\obj\Debug\net7.0\refint\projeto descobrir idade.dll
+C:\Users\50866670890\Desktop\backend-\projeto descobrir idade\obj\Debug\net7.0\projeto descobrir idade.pdb
+C:\Users\50866670890\Desktop\backend-\projeto descobrir idade\obj\Debug\net7.0\projeto descobrir idade.genruntimeconfig.cache
+C:\Users\50866670890\Desktop\backend-\projeto descobrir idade\obj\Debug\net7.0\ref\projeto descobrir idade.dll

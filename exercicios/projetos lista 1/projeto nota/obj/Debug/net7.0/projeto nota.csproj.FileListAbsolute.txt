@@ -1,0 +1,15 @@
+C:\Users\50866670890\Desktop\backend-\projeto nota\bin\Debug\net7.0\projeto nota.exe
+C:\Users\50866670890\Desktop\backend-\projeto nota\bin\Debug\net7.0\projeto nota.deps.json
+C:\Users\50866670890\Desktop\backend-\projeto nota\bin\Debug\net7.0\projeto nota.runtimeconfig.json
+C:\Users\50866670890\Desktop\backend-\projeto nota\bin\Debug\net7.0\projeto nota.dll
+C:\Users\50866670890\Desktop\backend-\projeto nota\bin\Debug\net7.0\projeto nota.pdb
+C:\Users\50866670890\Desktop\backend-\projeto nota\obj\Debug\net7.0\projeto nota.csproj.AssemblyReference.cache
+C:\Users\50866670890\Desktop\backend-\projeto nota\obj\Debug\net7.0\projeto nota.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50866670890\Desktop\backend-\projeto nota\obj\Debug\net7.0\projeto nota.AssemblyInfoInputs.cache
+C:\Users\50866670890\Desktop\backend-\projeto nota\obj\Debug\net7.0\projeto nota.AssemblyInfo.cs
+C:\Users\50866670890\Desktop\backend-\projeto nota\obj\Debug\net7.0\projeto nota.csproj.CoreCompileInputs.cache
+C:\Users\50866670890\Desktop\backend-\projeto nota\obj\Debug\net7.0\projeto nota.dll
+C:\Users\50866670890\Desktop\backend-\projeto nota\obj\Debug\net7.0\refint\projeto nota.dll
+C:\Users\50866670890\Desktop\backend-\projeto nota\obj\Debug\net7.0\projeto nota.pdb
+C:\Users\50866670890\Desktop\backend-\projeto nota\obj\Debug\net7.0\projeto nota.genruntimeconfig.cache
+C:\Users\50866670890\Desktop\backend-\projeto nota\obj\Debug\net7.0\ref\projeto nota.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "exercicio laços de repeticão/1.0.0": {
+        "runtime": {
+          "exercicio laços de repeticão.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "exercicio laços de repeticão/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

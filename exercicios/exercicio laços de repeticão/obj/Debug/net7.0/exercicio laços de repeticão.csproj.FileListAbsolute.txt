@@ -1,0 +1,15 @@
+C:\Users\50866670890\Desktop\backend-\exercicios\exercicio laços de repeticão\bin\Debug\net7.0\exercicio laços de repeticão.exe
+C:\Users\50866670890\Desktop\backend-\exercicios\exercicio laços de repeticão\bin\Debug\net7.0\exercicio laços de repeticão.deps.json
+C:\Users\50866670890\Desktop\backend-\exercicios\exercicio laços de repeticão\bin\Debug\net7.0\exercicio laços de repeticão.runtimeconfig.json
+C:\Users\50866670890\Desktop\backend-\exercicios\exercicio laços de repeticão\bin\Debug\net7.0\exercicio laços de repeticão.dll
+C:\Users\50866670890\Desktop\backend-\exercicios\exercicio laços de repeticão\bin\Debug\net7.0\exercicio laços de repeticão.pdb
+C:\Users\50866670890\Desktop\backend-\exercicios\exercicio laços de repeticão\obj\Debug\net7.0\exercicio laços de repeticão.csproj.AssemblyReference.cache
+C:\Users\50866670890\Desktop\backend-\exercicios\exercicio laços de repeticão\obj\Debug\net7.0\exercicio laços de repeticão.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50866670890\Desktop\backend-\exercicios\exercicio laços de repeticão\obj\Debug\net7.0\exercicio laços de repeticão.AssemblyInfoInputs.cache
+C:\Users\50866670890\Desktop\backend-\exercicios\exercicio laços de repeticão\obj\Debug\net7.0\exercicio laços de repeticão.AssemblyInfo.cs
+C:\Users\50866670890\Desktop\backend-\exercicios\exercicio laços de repeticão\obj\Debug\net7.0\exercicio laços de repeticão.csproj.CoreCompileInputs.cache
+C:\Users\50866670890\Desktop\backend-\exercicios\exercicio laços de repeticão\obj\Debug\net7.0\exercicio laços de repeticão.dll
+C:\Users\50866670890\Desktop\backend-\exercicios\exercicio laços de repeticão\obj\Debug\net7.0\refint\exercicio laços de repeticão.dll
+C:\Users\50866670890\Desktop\backend-\exercicios\exercicio laços de repeticão\obj\Debug\net7.0\exercicio laços de repeticão.pdb
+C:\Users\50866670890\Desktop\backend-\exercicios\exercicio laços de repeticão\obj\Debug\net7.0\exercicio laços de repeticão.genruntimeconfig.cache
+C:\Users\50866670890\Desktop\backend-\exercicios\exercicio laços de repeticão\obj\Debug\net7.0\ref\exercicio laços de repeticão.dll

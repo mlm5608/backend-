@@ -1,0 +1,15 @@
+C:\Users\Vanessa Elizabete\Desktop\SENAI\backend-\Programação Orientada à objetos\exercícios\projetos lista 05 de maio\exercicio 2\bin\Debug\net6.0\exercicio 2.exe
+C:\Users\Vanessa Elizabete\Desktop\SENAI\backend-\Programação Orientada à objetos\exercícios\projetos lista 05 de maio\exercicio 2\bin\Debug\net6.0\exercicio 2.deps.json
+C:\Users\Vanessa Elizabete\Desktop\SENAI\backend-\Programação Orientada à objetos\exercícios\projetos lista 05 de maio\exercicio 2\bin\Debug\net6.0\exercicio 2.runtimeconfig.json
+C:\Users\Vanessa Elizabete\Desktop\SENAI\backend-\Programação Orientada à objetos\exercícios\projetos lista 05 de maio\exercicio 2\bin\Debug\net6.0\exercicio 2.dll
+C:\Users\Vanessa Elizabete\Desktop\SENAI\backend-\Programação Orientada à objetos\exercícios\projetos lista 05 de maio\exercicio 2\bin\Debug\net6.0\exercicio 2.pdb
+C:\Users\Vanessa Elizabete\Desktop\SENAI\backend-\Programação Orientada à objetos\exercícios\projetos lista 05 de maio\exercicio 2\obj\Debug\net6.0\exercicio 2.csproj.AssemblyReference.cache
+C:\Users\Vanessa Elizabete\Desktop\SENAI\backend-\Programação Orientada à objetos\exercícios\projetos lista 05 de maio\exercicio 2\obj\Debug\net6.0\exercicio 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vanessa Elizabete\Desktop\SENAI\backend-\Programação Orientada à objetos\exercícios\projetos lista 05 de maio\exercicio 2\obj\Debug\net6.0\exercicio 2.AssemblyInfoInputs.cache
+C:\Users\Vanessa Elizabete\Desktop\SENAI\backend-\Programação Orientada à objetos\exercícios\projetos lista 05 de maio\exercicio 2\obj\Debug\net6.0\exercicio 2.AssemblyInfo.cs
+C:\Users\Vanessa Elizabete\Desktop\SENAI\backend-\Programação Orientada à objetos\exercícios\projetos lista 05 de maio\exercicio 2\obj\Debug\net6.0\exercicio 2.csproj.CoreCompileInputs.cache
+C:\Users\Vanessa Elizabete\Desktop\SENAI\backend-\Programação Orientada à objetos\exercícios\projetos lista 05 de maio\exercicio 2\obj\Debug\net6.0\exercicio 2.dll
+C:\Users\Vanessa Elizabete\Desktop\SENAI\backend-\Programação Orientada à objetos\exercícios\projetos lista 05 de maio\exercicio 2\obj\Debug\net6.0\refint\exercicio 2.dll
+C:\Users\Vanessa Elizabete\Desktop\SENAI\backend-\Programação Orientada à objetos\exercícios\projetos lista 05 de maio\exercicio 2\obj\Debug\net6.0\exercicio 2.pdb
+C:\Users\Vanessa Elizabete\Desktop\SENAI\backend-\Programação Orientada à objetos\exercícios\projetos lista 05 de maio\exercicio 2\obj\Debug\net6.0\exercicio 2.genruntimeconfig.cache
+C:\Users\Vanessa Elizabete\Desktop\SENAI\backend-\Programação Orientada à objetos\exercícios\projetos lista 05 de maio\exercicio 2\obj\Debug\net6.0\ref\exercicio 2.dll
