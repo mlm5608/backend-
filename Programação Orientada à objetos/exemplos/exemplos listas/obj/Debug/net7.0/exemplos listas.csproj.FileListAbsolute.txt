@@ -1,0 +1,15 @@
+C:\Users\50866670890\Desktop\backend-\Programação Orientada à objetos\exemplos\exemplos listas\bin\Debug\net7.0\exemplos listas.exe
+C:\Users\50866670890\Desktop\backend-\Programação Orientada à objetos\exemplos\exemplos listas\bin\Debug\net7.0\exemplos listas.deps.json
+C:\Users\50866670890\Desktop\backend-\Programação Orientada à objetos\exemplos\exemplos listas\bin\Debug\net7.0\exemplos listas.runtimeconfig.json
+C:\Users\50866670890\Desktop\backend-\Programação Orientada à objetos\exemplos\exemplos listas\bin\Debug\net7.0\exemplos listas.dll
+C:\Users\50866670890\Desktop\backend-\Programação Orientada à objetos\exemplos\exemplos listas\bin\Debug\net7.0\exemplos listas.pdb
+C:\Users\50866670890\Desktop\backend-\Programação Orientada à objetos\exemplos\exemplos listas\obj\Debug\net7.0\exemplos listas.csproj.AssemblyReference.cache
+C:\Users\50866670890\Desktop\backend-\Programação Orientada à objetos\exemplos\exemplos listas\obj\Debug\net7.0\exemplos listas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50866670890\Desktop\backend-\Programação Orientada à objetos\exemplos\exemplos listas\obj\Debug\net7.0\exemplos listas.AssemblyInfoInputs.cache
+C:\Users\50866670890\Desktop\backend-\Programação Orientada à objetos\exemplos\exemplos listas\obj\Debug\net7.0\exemplos listas.AssemblyInfo.cs
+C:\Users\50866670890\Desktop\backend-\Programação Orientada à objetos\exemplos\exemplos listas\obj\Debug\net7.0\exemplos listas.csproj.CoreCompileInputs.cache
+C:\Users\50866670890\Desktop\backend-\Programação Orientada à objetos\exemplos\exemplos listas\obj\Debug\net7.0\exemplos listas.dll
+C:\Users\50866670890\Desktop\backend-\Programação Orientada à objetos\exemplos\exemplos listas\obj\Debug\net7.0\refint\exemplos listas.dll
+C:\Users\50866670890\Desktop\backend-\Programação Orientada à objetos\exemplos\exemplos listas\obj\Debug\net7.0\exemplos listas.pdb
+C:\Users\50866670890\Desktop\backend-\Programação Orientada à objetos\exemplos\exemplos listas\obj\Debug\net7.0\exemplos listas.genruntimeconfig.cache
+C:\Users\50866670890\Desktop\backend-\Programação Orientada à objetos\exemplos\exemplos listas\obj\Debug\net7.0\ref\exemplos listas.dll

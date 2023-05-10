@@ -1,0 +1,7 @@
+//Criar um projeto console
+//Criar uma classe carro:
+  -marca
+  -cor
+//Criar  construtor vazio e completo
+//Receber dados no console para adicionar em uma lista 
+//Exibir os dois objetos da lista no console

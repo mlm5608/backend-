@@ -13,16 +13,26 @@ namespace exemplo_construtores
         // ctor
         public Produto()
         {
+            Console.WriteLine($"Tem nada não");
         }
         public Produto(string codigo)
         {
             Codigo = codigo;
+            Console.WriteLine($"{codigo}");
+            
         }
         public Produto(string codigo, string nome, float preco)
         {
             Codigo = codigo;
             Nome = nome;
             Preco = preco;
+
+            Console.WriteLine(@$"
+{codigo}
+{nome}
+{preco}
+            ");
+            
         }
     }
 }
