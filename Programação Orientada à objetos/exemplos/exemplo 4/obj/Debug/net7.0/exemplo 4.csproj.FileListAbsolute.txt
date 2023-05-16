@@ -1,0 +1,15 @@
+C:\Users\50866670890\Desktop\backend-\Programação Orientada à objetos\exemplos\exemplo 4\bin\Debug\net7.0\exemplo 4.exe
+C:\Users\50866670890\Desktop\backend-\Programação Orientada à objetos\exemplos\exemplo 4\bin\Debug\net7.0\exemplo 4.deps.json
+C:\Users\50866670890\Desktop\backend-\Programação Orientada à objetos\exemplos\exemplo 4\bin\Debug\net7.0\exemplo 4.runtimeconfig.json
+C:\Users\50866670890\Desktop\backend-\Programação Orientada à objetos\exemplos\exemplo 4\bin\Debug\net7.0\exemplo 4.dll
+C:\Users\50866670890\Desktop\backend-\Programação Orientada à objetos\exemplos\exemplo 4\bin\Debug\net7.0\exemplo 4.pdb
+C:\Users\50866670890\Desktop\backend-\Programação Orientada à objetos\exemplos\exemplo 4\obj\Debug\net7.0\exemplo 4.csproj.AssemblyReference.cache
+C:\Users\50866670890\Desktop\backend-\Programação Orientada à objetos\exemplos\exemplo 4\obj\Debug\net7.0\exemplo 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50866670890\Desktop\backend-\Programação Orientada à objetos\exemplos\exemplo 4\obj\Debug\net7.0\exemplo 4.AssemblyInfoInputs.cache
+C:\Users\50866670890\Desktop\backend-\Programação Orientada à objetos\exemplos\exemplo 4\obj\Debug\net7.0\exemplo 4.AssemblyInfo.cs
+C:\Users\50866670890\Desktop\backend-\Programação Orientada à objetos\exemplos\exemplo 4\obj\Debug\net7.0\exemplo 4.csproj.CoreCompileInputs.cache
+C:\Users\50866670890\Desktop\backend-\Programação Orientada à objetos\exemplos\exemplo 4\obj\Debug\net7.0\exemplo 4.dll
+C:\Users\50866670890\Desktop\backend-\Programação Orientada à objetos\exemplos\exemplo 4\obj\Debug\net7.0\refint\exemplo 4.dll
+C:\Users\50866670890\Desktop\backend-\Programação Orientada à objetos\exemplos\exemplo 4\obj\Debug\net7.0\exemplo 4.pdb
+C:\Users\50866670890\Desktop\backend-\Programação Orientada à objetos\exemplos\exemplo 4\obj\Debug\net7.0\exemplo 4.genruntimeconfig.cache
+C:\Users\50866670890\Desktop\backend-\Programação Orientada à objetos\exemplos\exemplo 4\obj\Debug\net7.0\ref\exemplo 4.dll
