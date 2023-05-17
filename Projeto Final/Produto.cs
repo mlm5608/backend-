@@ -1,34 +1,57 @@
+using Projeto_Final;
+
 namespace Projeto_Final
 {
     public class Produto
     {
+        string User = Usuario.Name;
+        string marca_;
         private int Codigo { get; set; }
         private string NomeProduto { get; set; }
         private float Preco { get; set; }
-        private string DataCadastro = DateTime.Now.ToString("MM/dd/yyyy HH:mm:ss");
-        private Marca Marca { get; set; }
+        private string DataCadastro;
+        private Marca marca { get; set; }
         private Usuario CadastradoPor { get; set; }
+        public string cadastradoPor = "miguel";
         List<Produto> Produtos = new List<Produto>();
 
+
         // Métodos
+        public Produto()
+        {
+        }
         public Produto(int _codigo)
         {
             Codigo = _codigo;
         }
 
-        public Produto(int _codigo, string _nomeProduto, float _preco, Marca _marca, Usuario _usuario, string _dataCadastro)
+        public Produto(int _codigo, string _nomeProduto, float _preco, string _marca_, string _usuario, string _dataCadastro)
         {
             Codigo = _codigo;
             NomeProduto = _nomeProduto;
             Preco = _preco;
-            Marca = _marca;
-            CadastradoPor = _usuario;
+            _marca_ = marca_;
+            User = _usuario;
             DataCadastro = _dataCadastro;
         }
-        public void Cadastar(int _codigo, string _nomeProduto, float _preco, Marca _marca, Usuario _usuario, string _dataCadastro)
+
+        public void Cadastar(int _codigo, string _nomeProduto, float _preco, string _marca_, string _Nome, string _dataCadastro)
         {
+            
+            Console.WriteLine($"Qual é o codigo?");
+            int Codigo_ = int.Parse(Console.ReadLine()!);
+
+            Console.WriteLine($"Qual é o nome do produto?");
+            string NomeProduto = Console.ReadLine()!.ToLower();
+
+            Console.WriteLine($"Qual é o Preço?");
+            float Preco = float.Parse(Console.ReadLine()!.ToLower());
+
+            Console.WriteLine($"Qual é a Marca?");
+            string marca_ = Console.ReadLine()!.ToUpper();
+
             Produtos.Add(
-                new Produto(Codigo, NomeProduto, Preco, Marca, CadastradoPor, DataCadastro)
+                new Produto(Codigo_, NomeProduto, Preco, marca_, _Nome, _dataCadastro)
             );
         }
         public void Listar()
@@ -39,8 +62,8 @@ namespace Projeto_Final
 Código: {item.Codigo}
 Nome: {item.NomeProduto}
 Preço: {item.Preco}
-Marca: {item.Marca}
-Cadastro por: {item.CadastradoPor}
+Marca: {marca_}
+Cadastro por: {cadastradoPor}
 Data/Hora do cadastro: {item.DataCadastro}
 ");
 
