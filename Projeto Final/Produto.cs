@@ -13,6 +13,7 @@ namespace Projeto_Final
         private Marca marca { get; set; }
         private Usuario CadastradoPor { get; set; }
         public string cadastradoPor = "miguel";
+        public int Codigo_;
         List<Produto> Produtos = new List<Produto>();
 
 
@@ -39,7 +40,7 @@ namespace Projeto_Final
         {
             
             Console.WriteLine($"Qual é o codigo?");
-            int Codigo_ = int.Parse(Console.ReadLine()!);
+            Codigo_ = int.Parse(Console.ReadLine()!);
 
             Console.WriteLine($"Qual é o nome do produto?");
             string NomeProduto = Console.ReadLine()!.ToLower();
@@ -71,7 +72,7 @@ Data/Hora do cadastro: {item.DataCadastro}
         }
         public void Deletar(int _codigo)
         {
-            Produto ProdutoARemover = Produtos.Find(x => x.Codigo == Codigo);
+            Produto ProdutoARemover = Produtos.Find(x => x.Codigo == _codigo);
             int index = Produtos.IndexOf(ProdutoARemover);
             Produtos.RemoveAt(index);
         }

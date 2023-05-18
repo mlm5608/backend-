@@ -15,6 +15,7 @@ namespace Projeto_Final
         // Métodos
         public void Logar()
         {
+            Console.ForegroundColor = ConsoleColor.Black;
             Console.WriteLine($"Qual é o email?");
             string EUser = Console.ReadLine()!;
 
@@ -30,6 +31,7 @@ namespace Projeto_Final
                 Logado = false;
                 Console.WriteLine($"Email ou senha incorretos");
             }
+            Console.ResetColor();
         }
         public void Deslogar()
         {
@@ -37,6 +39,7 @@ namespace Projeto_Final
         }
         public void GerarMenu()
         {
+            Console.ForegroundColor = ConsoleColor.Red;
             Console.WriteLine(@$"
 Escolha 1 opção
 
@@ -52,6 +55,7 @@ Marcas:
 
 0-Sair
             ");
+            Console.ReadLine();
         }
 
         public Login()
@@ -67,11 +71,12 @@ Marcas:
                 GerarMenu();
                 Resposta = Console.ReadLine();
 
-                
+
 
                 switch (Resposta)
                 {
                     case "1":
+                        Console.ForegroundColor = ConsoleColor.Cyan;
                         Console.Clear();
                         int sla1 = 1;
                         string sla2 = "";
@@ -80,18 +85,24 @@ Marcas:
                         string sla5 = "Miguel";
                         string sla6 = DateTime.Now.ToString("MM/dd/yyyy HH:mm:ss");
                         produto_.Cadastar(sla1, sla2, sla3, sla4, sla5, sla6);
+                        Console.ResetColor();
                         break;
                     case "2":
+                        Console.ForegroundColor = ConsoleColor.Cyan;
                         Console.Clear();
                         produto_.Listar();
+                        Console.ResetColor();
                         break;
                     case "3":
+                        Console.ForegroundColor = ConsoleColor.Cyan;
                         Console.Clear();
                         Console.WriteLine($"Qual o código?");
                         int codigo_ = int.Parse(Console.ReadLine());
                         produto_.Deletar(codigo_);
+                        Console.ResetColor();
                         break;
                     case "4":
+                        Console.ForegroundColor = ConsoleColor.Cyan;
                         Console.Clear();
                         Console.WriteLine($"Qual o nome da marca?");
                         string NomeMarca = Console.ReadLine()!.ToUpper();
@@ -99,19 +110,27 @@ Marcas:
                         Console.WriteLine($"Qual o codigo da marca?");
                         int Codigo = int.Parse(Console.ReadLine());
                         M.Cadastrar(Codigo, NomeMarca);
+                        Console.ResetColor();
                         break;
                     case "5":
+                        Console.ForegroundColor = ConsoleColor.Cyan;
                         Console.Clear();
                         M.Listar();
+                        Console.ResetColor();
                         break;
                     case "6":
+                        Console.ForegroundColor = ConsoleColor.Cyan;
                         Console.Clear();
                         Console.WriteLine($"Qual o codigo da marca?");
                         int vodigo = int.Parse(Console.ReadLine());
                         M.Deletar(vodigo);
+                        Console.ResetColor();
                         break;
                     case "0":
-                    loop = false;
+                        Console.ForegroundColor = ConsoleColor.Cyan;
+                        loop = false;
+                        Console.WriteLine($"Obrigado por usar nosso programa!!");
+                        Console.ResetColor();
                         break;
                     default:
                         Console.Clear();
