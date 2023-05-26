@@ -20,5 +20,9 @@ namespace Console_MVC.Controller
 
             produtoView.Listar(produtos);
         }
+         public void cadastrarProdutos(){
+          Produto produto = produtoView.Cadastrar();
+          produto.Inserir(produto);
+        }
     }
 }
