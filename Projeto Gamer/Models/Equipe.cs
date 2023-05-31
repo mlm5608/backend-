@@ -6,9 +6,9 @@ namespace Projeto_Gamer.Models
     {
         [Key]
         public int IdEquipe { get; set; }
-        public string Nome { get; set; }
-        public string Imagem { get; set; }
+        public string? Nome { get; set; }
+        public string? Imagem { get; set; }
 
-        public ICollection<Jogador> Jogador { get; set; }
+        public ICollection<Jogador>? Jogador { get; set; }
     }
 }

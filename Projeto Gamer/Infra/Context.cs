@@ -17,7 +17,7 @@ namespace Projeto_Gamer.Infra
         {
             if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseSqlServer("Data Souce = NOTE10-S14; initial catalog = gamer; Integrated Security = true; TrustServerCertificate = true");
+                optionsBuilder.UseSqlServer("Data Source = NOTE10-S14; initial catalog = gamer; User Id=sa; pwd = Senai@134; TrustServerCertificate = true");
             }
         }
         public DbSet<Jogador> Jogador { get; set; }
