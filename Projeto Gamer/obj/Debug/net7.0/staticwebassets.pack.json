@@ -13,6 +13,18 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\50866670890\\Desktop\\backend-\\Projeto Gamer\\wwwroot\\img\\Equipes\\corinthians.jfif",
+      "PackagePath": "staticwebassets\\img\\Equipes\\corinthians.jfif"
+    },
+    {
+      "Id": "C:\\Users\\50866670890\\Desktop\\backend-\\Projeto Gamer\\wwwroot\\img\\Equipes\\download.jfif",
+      "PackagePath": "staticwebassets\\img\\Equipes\\download.jfif"
+    },
+    {
+      "Id": "C:\\Users\\50866670890\\Desktop\\backend-\\Projeto Gamer\\wwwroot\\img\\Equipes\\download.png",
+      "PackagePath": "staticwebassets\\img\\Equipes\\download.png"
+    },
+    {
       "Id": "C:\\Users\\50866670890\\Desktop\\backend-\\Projeto Gamer\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
