@@ -16,6 +16,7 @@ namespace Projeto_Gamer.Controllers
 
         // Instancia do objeto da classe context : acessa o BD
         Context c = new Context();
+        
         //             controller/action 
         [Route("Listar")] //http://localhost/Equipe/Listar
         public IActionResult Index()

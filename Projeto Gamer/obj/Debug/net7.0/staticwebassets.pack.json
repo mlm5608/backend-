@@ -25,6 +25,14 @@
       "PackagePath": "staticwebassets\\img\\Equipes\\download.png"
     },
     {
+      "Id": "C:\\Users\\50866670890\\Desktop\\backend-\\Projeto Gamer\\wwwroot\\img\\Equipes\\padrao.png",
+      "PackagePath": "staticwebassets\\img\\Equipes\\padrao.png"
+    },
+    {
+      "Id": "C:\\Users\\50866670890\\Desktop\\backend-\\Projeto Gamer\\wwwroot\\img\\Equipes\\psg.jfif",
+      "PackagePath": "staticwebassets\\img\\Equipes\\psg.jfif"
+    },
+    {
       "Id": "C:\\Users\\50866670890\\Desktop\\backend-\\Projeto Gamer\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
