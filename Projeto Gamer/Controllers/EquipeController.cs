@@ -21,6 +21,8 @@ namespace Projeto_Gamer.Controllers
         [Route("Listar")] //http://localhost/Equipe/Listar
         public IActionResult Index()
         {
+            ViewBag.UserName = HttpContext.Session.GetString("Username");
+
             // "mochila" que contém a lista das equipes, podemos usar essa "mochila" na view de equipe
             ViewBag.Equipe = c.Equipe.ToList();
 
@@ -89,6 +91,8 @@ namespace Projeto_Gamer.Controllers
         [Route("Editar/{id}")]
         public IActionResult Editar(int id)
         {
+            ViewBag.UserName = HttpContext.Session.GetString("Username");
+
             Equipe f = c.Equipe.First(e => e.IdEquipe == id);
 
             ViewBag.Equipe = f;
