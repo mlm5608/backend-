@@ -28,7 +28,7 @@ namespace Projeto_Gamer.Controllers
         [Route("Login")]
         public IActionResult Index()
         {
-            ViewBag.UserName = HttpContext.Session.GetString("Username");
+            ViewBag.UserName = HttpContext.Session.GetString("UserName");
             return View();
         }
 
@@ -53,7 +53,7 @@ namespace Projeto_Gamer.Controllers
         [Route("Logout")]
         public IActionResult Logout()
         {
-            HttpContext.Session.Remove("Username");
+            HttpContext.Session.Remove("UserName");
             return LocalRedirect("~/");
         }
 

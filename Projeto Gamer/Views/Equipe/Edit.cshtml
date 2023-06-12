@@ -4,8 +4,13 @@
     ViewData["Title"] = "Edit";
 }
 
-<h2>Edição de Equipes</h2>
-
+<h1>Edição de Equipes</h1>
+@if (ViewBag.UserName == null)
+{
+    <a class="navbar-brand" asp-area="" asp-controller="Login" asp-action="Index">Login</a>
+}
+else
+{
 <form method="post" action='@Url.Action("Atualizar")' enctype="multipart/form-data">
     <input type="hidden" name="IdEquipe" value="@ViewBag.Equipe.IdEquipe">
 
@@ -17,3 +22,4 @@
 
     <button type="submit">Atualizar</button>
 </form>
+}
